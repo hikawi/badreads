@@ -14,10 +14,10 @@
 ## Backend 
 - Express.js
   - Node.js runtime
-  - MongoDB - Database
-  - Mongoose - ODM
+  - PostgreSQL - Database
+  - Drizzle - ODM
   - JWT - Authentication
-  - bcrypt - Password hashing
+  - Argon2id - Password hashing
   - Express Validator - Request validation
   - Morgan - HTTP request logger
   - Helmet - Security headers
